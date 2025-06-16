@@ -5,11 +5,11 @@ Neural Networks Assignment – Feature Extraction & Data Preprocessing
 University: University of Central Missouri
 Course: Neural Networks and Deep Learning
 Term: SUMMER 2025
-Student Name: Santhosh Reddy Kistipati
-Student ID: 700776947
+Student Name: Naga Sai Gowtham Mulam
+Student ID: 700762369
 
 
-Esily can accuss the github link :"https://github.com/santhoshK12/Homeassignment3/tree/main"
+Esily can accuss the github link :"https://github.com/Gowtham-0781/homeassign3/tree/main"
 
  How to Run Each Program (All 5 Questions) in Google Colab
 
